@@ -66,6 +66,6 @@ Instrumentals for Albums 100–101
 All Glory to Lord Jesus Christ.
 
 # Published:
-1. Github :
+1. Github : https://github.com/KJC-DNN/Albums92-101_Instrumentals/releases/tag/92-101.0.0
 2. Archive.org : https://archive.org/details/albums-92-101-instrumentals.-7z.-7z
 3. Zenodo : https://doi.org/10.5281/zenodo.23399748
